@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0057-insert-interval](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/0057-insert-interval) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## String
 |  |
 | ------- |
@@ -41,8 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Counting
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/1510-find-lucky-integer-in-an-array) |
+## Design
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
