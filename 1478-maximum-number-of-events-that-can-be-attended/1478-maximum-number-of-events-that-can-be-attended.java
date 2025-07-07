@@ -6,7 +6,7 @@ class Solution {
         Arrays.sort(events, (a, b) -> Integer.compare(a[0], b[0]));
         int day = events[0][0];
         int i = 0;
-        int count = 0; // Result number of events attended
+        int count = 0; 
 
         while(!pq.isEmpty() || i < n) {
 
@@ -21,8 +21,8 @@ class Solution {
             }
 
             if(!pq.isEmpty()) {
-                pq.poll(); // Attend an event on this day
-                count++; // Counting the result
+                pq.poll(); 
+                count++;
             }
 
             day++;
