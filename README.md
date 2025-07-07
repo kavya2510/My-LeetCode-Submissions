@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0057-insert-interval](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/0057-insert-interval) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## String
@@ -51,4 +52,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Greedy
+|  |
+| ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+## Sorting
+|  |
+| ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 <!---LeetCode Topics End-->
