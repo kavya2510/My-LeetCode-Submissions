@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/1534-minimum-number-of-frogs-croaking) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3396-valid-word](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/3396-valid-word) |
 | [3618-find-the-original-typed-string-ii](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/3618-find-the-original-typed-string-ii) |
 ## Dynamic Programming
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Stack
+|  |
+| ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
