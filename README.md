@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0057-insert-interval](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/0057-insert-interval) |
 | [0907-koko-eating-bananas](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/0907-koko-eating-bananas) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
