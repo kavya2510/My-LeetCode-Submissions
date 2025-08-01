@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0057-insert-interval](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/0057-insert-interval) |
+| [0118-pascals-triangle](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/0118-pascals-triangle) |
 | [0907-koko-eating-bananas](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/0118-pascals-triangle) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
