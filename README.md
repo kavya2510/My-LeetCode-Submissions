@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/0118-pascals-triangle) |
 | [0907-koko-eating-bananas](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/0940-fruit-into-baskets) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/0940-fruit-into-baskets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2479-meeting-rooms-iii](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/2479-meeting-rooms-iii) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
