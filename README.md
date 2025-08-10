@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/0940-fruit-into-baskets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/0900-reordered-power-of-2) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/1534-minimum-number-of-frogs-croaking) |
 ## Design
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/0900-reordered-power-of-2) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2479-meeting-rooms-iii](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/2479-meeting-rooms-iii) |
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
