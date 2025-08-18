@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0057-insert-interval](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/0057-insert-interval) |
 | [0118-pascals-triangle](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/0118-pascals-triangle) |
+| [0679-24-game](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/0679-24-game) |
 | [0907-koko-eating-bananas](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/0940-fruit-into-baskets) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/0231-power-of-two) |
+| [0679-24-game](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0679-24-game](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Brainteaser
 |  |
