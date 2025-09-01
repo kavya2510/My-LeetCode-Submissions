@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/kavya2510/My-LeetCode-Submissions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/kavya2510/My-LeetCode-Submissions/tree/master/3748-sort-matrix-by-diagonals) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/3618-find-the-original-typed-string-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/kavya2510/My-LeetCode-Submissions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/kavya2510/My-LeetCode-Submissions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Two Pointers
 |  |
 | ------- |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/kavya2510/My-LeetCode-Submissions/tree/master/1628-count-submatrices-with-all-ones) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/kavya2510/My-LeetCode-Submission/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/kavya2510/My-LeetCode-Submissions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/kavya2510/My-LeetCode-Submissions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Probability and Statistics
 |  |
